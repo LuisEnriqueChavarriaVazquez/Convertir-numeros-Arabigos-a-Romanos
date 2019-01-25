@@ -56,8 +56,6 @@ int main(){
 			case 9: cout << "IX"; break;
 		}
 		
-		cout << "\nFinalmente tu numero es: " << millares << centenas << decenas << unidades << endl; 
-		
 	}
 	return 0;
 }
